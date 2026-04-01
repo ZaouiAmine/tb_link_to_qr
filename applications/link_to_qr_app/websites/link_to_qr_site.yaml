@@ -1,0 +1,12 @@
+id: QmdnsxdVDdT4WaBWgoJEFEkNZKFjLYHMVaDQ7T6V7wLXVh
+description: Link-to-QR website
+tags: []
+domains:
+    - link_to_qr_domain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: "1198208865"
+        fullname: ZaouiAmine/tb_website_link_to_qr_site
